@@ -6,5 +6,4 @@ echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Performing my practical first time"
-echo " good Morning"
-echo " Good Night"
+echo " Value of a b"
